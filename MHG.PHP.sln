@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MHG.PHP.Library.HtmlSelect", "MHG.PHP.Library.HtmlSelect\MHG.PHP.Library.HtmlSelect.phpproj", "{075E5822-88D9-4AC0-8D3A-06CFCE362DA2}"
 EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MHG.PHP.Gravatar", "MHG.PHP.Gravatar\MHG.PHP.Gravatar.phpproj", "{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{075E5822-88D9-4AC0-8D3A-06CFCE362DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{075E5822-88D9-4AC0-8D3A-06CFCE362DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
