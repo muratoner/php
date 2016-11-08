@@ -7,6 +7,8 @@ Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MHG.PHP.Library.HtmlSelect"
 EndProject
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MHG.PHP.Gravatar", "MHG.PHP.Gravatar\MHG.PHP.Gravatar.phpproj", "{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}"
 EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MHG.PHP.Submit.Array", "MHG.PHP.Submit.Array\MHG.PHP.Submit.Array.phpproj", "{283547E6-FC1A-44B4-9D1A-1E8DF161AE87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{075E5822-88D9-4AC0-8D3A-06CFCE362DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{92583FDB-AD41-4043-9FD3-7E3D7B6F1170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283547E6-FC1A-44B4-9D1A-1E8DF161AE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283547E6-FC1A-44B4-9D1A-1E8DF161AE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
